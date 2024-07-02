@@ -4,6 +4,7 @@ metadata:
   name: DEMO-MyHome
   annotations:
     github.com/project-slug: swimmio/DEMO-MyHome
+    backstage.io/techdocs-ref: ./.swm
 spec:
   type: other
   lifecycle: unknown
